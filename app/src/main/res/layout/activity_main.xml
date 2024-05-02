@@ -5,6 +5,7 @@
 
     <!-- Encabezado -->
     <TextView
+        android:layout_marginTop="20sp"
         android:id="@+id/textViewHeader"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -46,10 +47,10 @@
     <LinearLayout
         android:id="@+id/cardLayout"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="531dp"
         android:layout_below="@id/searchLayout"
         android:layout_alignParentBottom="true"
-        android:layout_marginTop="29dp"
+        android:layout_marginTop="14dp"
         android:orientation="vertical"
         android:padding="16dp">
 
@@ -116,7 +117,7 @@
                     android:layout_centerVertical="true"
                     android:layout_marginLeft="16dp"
                     android:layout_toRightOf="@id/imageViewCourse2"
-                    android:text="@string/textCurso3"
+                    android:text="@string/textCurso2"
                     android:textColor="@color/white"
                     android:textSize="18sp"
                     android:textStyle="bold" />
