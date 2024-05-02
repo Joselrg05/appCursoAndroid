@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">appCursoAndroid</string>
+    <string name="conceptos_b_sicos_de_bases_de_datos">Conceptos Básicos de Bases de Datos</string>
+    <string name="textCurso2">Acciones sobre una Base de Datos</string>
+    <string name="textCurso1">Conceptos Básicos de las Bases de Datos</string>
+    <string name="textCurso3">Manejo de Tablas Dinámicas</string>
+    <string name="textCurso4">Acciones sobre una Base de Datos</string>
+</resources>
