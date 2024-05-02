@@ -181,7 +181,7 @@
                     android:layout_height="80dp"
                     android:layout_alignParentLeft="true"
                     android:layout_centerVertical="true"
-                    android:src="@drawable/box_remove" />
+                    android:src="@drawable/folder_open" />
 
                 <TextView
                     android:id="@+id/textViewCourseName4"
